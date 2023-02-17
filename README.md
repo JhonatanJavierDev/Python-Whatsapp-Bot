@@ -1,7 +1,7 @@
 # Python-Whatsapp-Bot
 A bot for Whatsapp written in python, this bot delivers automatic responses to questions (messages) from the user
 
-#How to install
+# How to install
 
 1-Create a Twilio account at https://www.twilio.com/whatsapp
 
